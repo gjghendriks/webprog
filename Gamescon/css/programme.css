@@ -1,0 +1,21 @@
+table#programme{
+	padding:2px;
+	border-spacing:10px;
+}
+
+td#programme{
+	border: solid 1px black;
+	padding:10px;
+	width:10%;
+}
+
+td#programme_time{
+	border: solid 1px black;
+	padding:10px;
+	width:4%;
+}
+
+td#filler{
+	padding:10px;
+	width:4%;
+}

@@ -1,0 +1,19 @@
+td#register_table{
+	padding-top:5px;
+	padding-right:20px;
+}
+
+td#register_table_Err{
+	padding-top:5px;
+	padding-right:20px;
+	color:red;
+}
+
+#register_button{
+	width:352px;
+	height:30px;
+}
+
+#field{
+	width:250px;
+}
